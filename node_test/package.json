@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "eventsource": "2.0.2",
+        "xhr2": "0.2.1"
+    }
+}
